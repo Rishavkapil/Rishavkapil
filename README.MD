@@ -37,7 +37,7 @@
 
 - 📧 [Email Me](mailto:rishavkapil2003@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishav-kapil-673796233/) 
-- 🌐 [Portfolio / Blog](https://rishavkapil.github.io/)
+- 🌐 [Portfolio](https://rishavkapil.github.io/)
 
 ---
 
