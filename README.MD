@@ -12,10 +12,10 @@
 - **Containerization & Orchestration:** Docker | Kubernetes
 - **Infrastructure as Code:** Terraform
 - **CI/CD:** Jenkins | GitHub Actions
-- **Monitoring & Logging:** Grafana | Prometheus
+- **Monitoring & Logging:** Grafana | Prometheus | ELK Stack
 
 ### 💻 Programming & Scripting
-- **Languages:** Bash | JavaScript | Python (basic)
+- **Languages:** Bash | JavaScript | Python (basic) | C++
 - **Frontend:** React.js
 - **Backend:** Node.js
 - **Database:** MongoDB | PostgreSQL | MySQL
