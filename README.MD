@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishav Kapil
 
-🚀 **DevOps Intern @ Antier Solutions**  
+🚀 ****  
 🔧 Passionate about automating infrastructure, CI/CD, and cloud-native solutions.
 
 ---
