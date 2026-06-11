@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishav Kapil
 
-🚀 ****  
+🚀  
 🔧 Passionate about automating infrastructure, CI/CD, and cloud-native solutions.
 
 ---
